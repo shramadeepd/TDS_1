@@ -15,9 +15,6 @@ This repository contains data collected using the GitHub API, listing users base
 - `users.csv`: Contains information about users from Stockholm with over 100 followers.
 - `repositories.csv`: Contains information on the repositories of these users.
 
-## Instructions
-
-To replicate or update the data, ensure you have a GitHub personal access token with adequate permissions and modify the script `github.py` to include your token.
 
 ## Data Fields
 
