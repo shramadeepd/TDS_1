@@ -2,11 +2,11 @@
 
 # GitHub Users and Repositories Data from Stockholm
 
-- This project scrapes GitHub data to list users based in Stockholm with over 100 followers and their repositories, using the GitHub API with pagination.
+- This project scrapes GitHub data to list users based in Stockholm with over 100 followers and their repositories, through GITHUB_api and pagination to capture all available data.
 - The most interesting finding was the high concentration of users working on open-source projects, with an average of 5+ languages per user.
 - Developers targeting users in Stockholm should focus on creating multilingual repositories, as many users contribute to projects in various languages.
 
-## About
+## About (Extra)
 
 This repository contains data collected using the GitHub API, listing users based in Stockholm with over 100 followers and their repositories.
 
