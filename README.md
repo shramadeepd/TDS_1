@@ -6,6 +6,8 @@
 - The most interesting finding was the high concentration of users working on open-source projects, with an average of 5+ languages per user.
 - Developers targeting users in Stockholm should focus on creating multilingual repositories, as many users contribute to projects in various languages.
 
+# The analysis is done in the file - https://github.com/shramadeepd/TDS_1/blob/main/tds_analysis.ipynb
+
 ## About (Extra)
 
 This repository contains data collected using the GitHub API, listing users based in Stockholm with over 100 followers and their repositories.
