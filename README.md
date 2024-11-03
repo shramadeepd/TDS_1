@@ -63,10 +63,10 @@ This repository contains data collected using the GitHub API, listing users base
 - **Enhanced Collaboration Features**: Stockholm developers demonstrate high engagement with collaborative open-source projects. Platforms or tools that support teamwork, project management, and community contribution tracking would benefit these users.
 - **Focus on Open-Source Licensing**: The preference for permissive licenses like MIT and GPL highlights a community that values code sharing. Developers creating tools for this audience should consider options that facilitate open-source contributions and licensing flexibility.
 
-## Instructions
+## Instructions ( for those who run the files )
 
 1. Ensure you have a GitHub personal access token for authenticated API requests.
-2. Use the provided `github.py` script to fetch the data, ensuring the token is correctly added in the script.
+2. Use the provided `fetch.py` script to fetch the data, ensuring the token is correctly added in the script.
 3. Run the script to generate `users.csv` and `repositories.csv`.
 
 ## Conclusion
